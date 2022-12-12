@@ -7,7 +7,7 @@
 Bike Share Data Project 12-12-2022
 
 ### Description
-Describe what your project is about and what it does
+Bike share data analysis and discrpitive statistics
 
 ### Files used
 Include the files used
