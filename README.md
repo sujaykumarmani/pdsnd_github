@@ -10,8 +10,11 @@ Bike Share Data Project 12-12-2022
 Bike share data analysis and discrpitive statistics
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new-york-city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/sujaykumarmani/pdsnd_github.git
+Sujay Kumar Mani
 
